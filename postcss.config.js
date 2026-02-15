@@ -4,11 +4,3 @@ module.exports = {
     autoprefixer: {},
   },
 }
-```
-
-**File 5: `.gitignore`**
-```
-node_modules
-.next
-.DS_Store
-*.log
